@@ -1,4 +1,4 @@
-# ]Commercial Real Estate SOFR Spreads Dashboard](https://tony-42069.github.io/cre-sofr-spreads-dashboard/)
+# [Commercial Real Estate SOFR Spreads Dashboard](https://tony-42069.github.io/cre-sofr-spreads-dashboard/)
 
 A dynamic dashboard built with Next.js and Chart.js that visualizes current SOFR (Secured Overnight Financing Rate) spreads across different commercial real estate asset classes.
 
