@@ -2,6 +2,9 @@
 
 A dynamic dashboard built with Next.js and Chart.js that visualizes current SOFR (Secured Overnight Financing Rate) spreads across different commercial real estate asset classes.
 
+## Preview
+![Preview](preview.png)
+
 ## Overview
 
 This dashboard provides real-time visualization of SOFR spreads across various commercial real estate asset classes:
